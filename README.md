@@ -8,11 +8,6 @@
 
 - [Features](#features)
 - [How It Works](#how-it-works)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ---
 
 ## Features
